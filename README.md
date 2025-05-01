@@ -1,4 +1,4 @@
-# Text_as_Data_Final_Project
+# DS 5001: Text as Data - Final Project
 
 
 Overview
