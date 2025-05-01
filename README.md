@@ -13,3 +13,7 @@ Model the annotated and vectorized model with tables and features derived from t
 Explore your results using statistical and visual methods.
 Present conclusions about patterns observed in the corpus by means of these operations.
 When you are finished, you will make the results of your work available in GitHub (for code) and UVA Box (for data). You will submit to Gradescope (via Canvas) a PDF version of a Jupyter notebook that contains the information listed below.
+
+-
+
+Project Description from UVA DS5001, Spring 2025, Rafael Alvarado
